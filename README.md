@@ -16,13 +16,18 @@ This module adds Wireguard support to ROMs that currently do not include support
 
 ## Changelog
 
+#### 1.2
+
+>Fix permissions (Thanks Skittles9823).
+
+>Might need to be reinstalled.
 
 #### 1.1
 
->Template 1500
+>Template 1500.
 
->Please uninstall the previous version before installing this update
+>Please uninstall the previous version before installing this update.
 
 #### 1.0
 
->First release
+>First release.
